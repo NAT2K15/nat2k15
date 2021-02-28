@@ -43,7 +43,8 @@ I'm a Highschool student planning to pursue software engineer when I'm older. I'
 ### ⚙️ My Resources & Tools:
 
 - OS: Windows 10
-- Laptop: HP Pavillion
+- Laptop: HP Pavillion (Linux)
+- Gaming PC: Normal specs
 - Browser: Brave Browser
 - Code Editor: VSCode - The best editor out there
 - Stay Updated: [Discord](https://discord.gg/RquDVTfDwu), and [Email](nat2k15email@gmail.com)
