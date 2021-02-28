@@ -1,6 +1,6 @@
 ## Hey 👋, I'm [NAT2K15!](https://github.com/nat2k15/)
 
-<img align="right" height="60" width="60" alt="" src="https://hyperz.dev/images/logo.png" />
+<img align="right" height="60" width="60" alt="" src="https://cdn.discordapp.com/attachments/756590322921767002/810784341286060062/2314.gif" />
 
 [![Discord Badge](https://img.shields.io/badge/-Discord-0e76a8?style=flat-square&logo=Discord&logoColor=white)](https://hyperz.dev/discord)
 [![YouTube Badge](https://img.shields.io/badge/-YouTube-e02828?style=flat-square&logo=YouTube&logoColor=white)](https://hyperz.dev/youtube)
