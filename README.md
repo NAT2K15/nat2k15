@@ -13,7 +13,7 @@ I'm a Highschool student planning to pursue software engineer when I'm older. I'
 
 [![DOD Badge](https://img.shields.io/badge/TEAM-DEVING%20ON%20DISCORD-17a6ec?style=for-the-badge)](https://github.com/nat2k15)
 
-<img align="right" height="215" width="325" alt="" src="https://cdn.dribbble.com/users/416610/screenshots/4801105/coding_desk_flat_vector_ui_ux_design_illustration_motion_animation_gif2.gif" />
+<img align="right" height="215" width="325" alt="" src="https://cdn.discordapp.com/attachments/812460010868441178/815411857090543616/Pre_comp_7.gif" />
 
 
 ### Some Highlights:
