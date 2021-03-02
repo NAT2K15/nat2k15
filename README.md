@@ -19,6 +19,7 @@ I'm a Highschool student planning to pursue software engineer when I'm older. I'
 ### Some Highlights:
 
 - 💻 &nbsp; [PayPal Discord Bot](https://github.com/NAT2K15/paypal-discord-bot)
+- 💻 &nbsp; [PayPal Discord Bot](https://github.com/NAT2K15/paypal-bot-v2)
 - 💻 &nbsp; [Discord-filter-bot](https://github.com/NAT2K15/word-filter-bot)
 - 💻 &nbsp; [Discord-monke-bot](https://github.com/NAT2K15/monke-bot)
 - 💻 &nbsp; [Discord-Review-Bot](https://github.com/NAT2K15/review-bot)
