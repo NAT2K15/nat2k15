@@ -45,7 +45,7 @@ I'm a Highschool student planning to pursue software engineer when I'm older. I'
 
 ### ⚙️ My Resources & Tools:
 
-- OS: Windows 10
+- OS: Windows 10 && ubuntu 20.04
 - Laptop: HP (Linux)
 - Gaming PC: Normal specs
 - Browser: Chrome and Opera
