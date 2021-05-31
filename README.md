@@ -30,7 +30,7 @@ I'm a Highschool student planning to pursue software engineer when I'm older. I'
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)&nbsp;
 ![MYSQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)&nbsp;
-![Lua](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=lua)&nbsp;
+![Lua](https://img.shields.io/badge/-Lua-333333?style=flat&logo=lua)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
 ### ⚙️ &nbsp;GitHub Stats
