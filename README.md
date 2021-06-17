@@ -11,7 +11,7 @@
 I'm a Highschool student planning to pursue software engineer when I'm older. I'm a passionate learner who's always willing to learn and work across technologies and coding assigments. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to party with friends and hang out in Discord calls and make discords bots. I'm currently into Bot Development 🕸️ and working on my journey on becoming a software engineer.
 
 
-[![DOD Badge](https://img.shields.io/badge/TEAM-DEVING%20ON%20DISCORD-17a6ec?style=for-the-badge)](https://github.com/nat2k15)
+[![NAT Badge](https://img.shields.io/badge/TEAM-NAT2K15%20DEVELOPMENT-17a6ec?style=for-the-badge)](https://github.com/nat2k15)
 
 <!-- <img align="right" height="215" width="325" alt="" src="https://cdn.discordapp.com/attachments/812460010868441178/815411857090543616/Pre_comp_7.gif" /> -->
 
