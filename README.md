@@ -20,9 +20,9 @@ I'm a Highschool student planning to pursue software engineer when I'm older. I'
 
 - 💻 &nbsp; [FiveM loading screen](https://github.com/NAT2K15/fivem-loading)
 - 💻 &nbsp; [PayPal Discord Bot V2](https://github.com/NAT2K15/paypal-bot-v2)
-- 💻 &nbsp; [Discord-filter-bot](https://github.com/NAT2K15/word-filter-bot)
+- 💻 &nbsp; [FiveM Ban Checker](https://github.com/NAT2K15/ban-checker)
 - 💻 &nbsp; [Google Form to Discord](https://github.com/NAT2K15/form-to-discord)
-- 💻 &nbsp; [Vehicle Dev helper](https://github.com/NAT2K15/vehicle-dev-helper)
+ [FiveM Chat Clear](https://github.com/NAT2K15/chat-clear)
 
 
 ### Languages and Tools:
