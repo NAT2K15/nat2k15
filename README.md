@@ -8,8 +8,8 @@
 
 ### Glad to see you here! &nbsp; ![](https://komarev.com/ghpvc/?username=nat2k15&label=Views&color=blue&style=plastic)
 
-I'm a Highschool student planning to pursue software engineer when I'm older. I'm a passionate learner who's always willing to learn and work across technologies and coding assigments. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to party with friends and hang out in Discord calls and make discords bots. I'm currently into Bot Development 🕸️ and working on my journey on becoming a software engineer.
 
+Join my discord https://discord.gg/RquDVTfDwu
 
 [![NAT Badge](https://img.shields.io/badge/TEAM-NAT2K15%20DEVELOPMENT-17a6ec?style=for-the-badge)](https://github.com/nat2k15)
 
@@ -52,7 +52,7 @@ I'm a Highschool student planning to pursue software engineer when I'm older. I'
 - Gaming PC: Normal specs
 - Browser: Chrome and Opera
 - Code Editor: VSCode - Notepad++ 
-- Stay Updated: [Discord](https://discord.gg/RquDVTfDwu), and [Email](nat2k15email@gmail.com)
+- Stay Updated: [Discord](https://discord.gg/RquDVTfDwu), and [Email](mailto:nat2k15email@gmail.com)
 
 ---
 
