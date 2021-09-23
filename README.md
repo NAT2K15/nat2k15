@@ -32,6 +32,7 @@ Join my discord https://discord.gg/RquDVTfDwu
 ![Lua](https://img.shields.io/badge/-Lua-333333?style=flat&logo=lua)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-bootstrap-333333?style=flat&logo=bootstrap)&nbsp;
 ![Markdown](https://img.shields.io/badge/-markdown-333333?style=flat&logo=markdown)&nbsp;
+![CFX.re](https://forum.cfx.re/uploads/default/optimized/4X/3/8/7/38769c61a46ed86700c737079f043c5ae89673a0_2_32x32.png)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
 ### ⚙️ &nbsp;GitHub Stats
