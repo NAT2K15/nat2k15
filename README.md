@@ -48,10 +48,10 @@ Join my discord https://discord.gg/RquDVTfDwu
 
 ### ⚙️ My Resources & Tools:
 
-- OS: Windows 10 && ubuntu 20.04
+- OS: Windows 11 PRO && ubuntu 20.04
 - Laptop: HP (Linux)
 - Gaming PC: Normal specs
-- Browser: Chrome and Opera
+- Browser: Chrome, Opera and Brave
 - Code Editor: VSCode - Notepad++ 
 - Stay Updated: [Discord](https://discord.gg/RquDVTfDwu), and [Email](mailto:nat2k15email@gmail.com)
 
