@@ -18,11 +18,11 @@ Join my discord https://discord.gg/RquDVTfDwu
 
 ### Some Highlights:
 
-- 💻 &nbsp; [FiveM loading screen](https://github.com/NAT2K15/fivem-loading)
-- 💻 &nbsp; [PayPal Discord Bot V2](https://github.com/NAT2K15/paypal-bot-v2)
-- 💻 &nbsp; [FiveM Ban Checker](https://github.com/NAT2K15/ban-checker)
+- 💻 &nbsp; [Discord Token Checker](https://github.com/NAT2K15/discord-token-checker)
+- 💻 &nbsp; [School Grade Calculator](https://github.com/NAT2K15/grade-calculator)
+- 💻 &nbsp; [FiveM Framework V2](https://store.nat2k15.xyz/store/framework-v2)
 - 💻 &nbsp; [Google Form to Discord](https://github.com/NAT2K15/form-to-discord)
-- 💻 &nbsp; [FiveM Chat Clear](https://github.com/NAT2K15/chat-clear)
+- 💻 &nbsp; [FiveM Vehicle & Weapon Management System](https://store.nat2k15.xyz/store/vehicle-management)
 
 
 ### Languages and Tools:
@@ -32,7 +32,7 @@ Join my discord https://discord.gg/RquDVTfDwu
 ![Lua](https://img.shields.io/badge/-Lua-333333?style=flat&logo=lua)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-bootstrap-333333?style=flat&logo=bootstrap)&nbsp;
 ![Markdown](https://img.shields.io/badge/-markdown-333333?style=flat&logo=markdown)&nbsp;
-![CFX.re](https://forum.cfx.re/uploads/default/optimized/4X/3/8/7/38769c61a46ed86700c737079f043c5ae89673a0_2_32x32.png)&nbsp;
+![Bash](https://img.shields.io/badge/-Bash-333333?style=flat&logo=bash)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
 ### ⚙️ &nbsp;GitHub Stats
@@ -50,13 +50,10 @@ Join my discord https://discord.gg/RquDVTfDwu
 
 - OS: Windows 11 PRO && ubuntu 20.04
 - Laptop: HP (Linux)
-- Gaming PC: Normal specs
-- Browser: Chrome, Opera and Brave
-- Code Editor: VSCode - Notepad++ 
+- Gaming PC
+- Browser: Chrome, and Brave
+- Code Editor: VSCode - Notepad++, MARS (assembly), Visual Studio
 - Stay Updated: [Discord](https://discord.gg/RquDVTfDwu), and [Email](mailto:nat2k15email@gmail.com)
 
 ---
 
-<h3 align=center>Show some ❤️ by starring some of the repositories!</h3>
-
----
